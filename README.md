@@ -85,10 +85,9 @@ Import this file into Postman to test the backend API endpoints.
 
 ## Technologies Used
 
-- HTML
-- CSS
+- React
 - JavaScript
-- Node.js
+- Spring boot
 - REST API
-
+- MongoDB
 ---
